@@ -45,7 +45,7 @@ _Personal note: you don't need tons of frameworks — start with simple LLM call
 - [LangGraph](https://www.langchain.com/langgraph) — Build multi-agent workflows with stateful graphs on top of LangChain.
 - [CrewAI](https://www.crewai.com/) — Agent orchestration with structured tasks and human-in-the-loop controls.
 - [AutoGen](https://microsoft.github.io/autogen/) — Microsoft’s framework for multi-agent conversation and collaboration.
-- OSEF Framework(https://github.com/emerladcompass/OSEF-Framework) ــــ
+- [OSEF Framework](https://github.com/emerladcompass/OSEF-Framework)
 Aviation safety supervision using limit cycle dynamics.
 
 #### 📦 Retrieval-Augmented Generation (RAG)
